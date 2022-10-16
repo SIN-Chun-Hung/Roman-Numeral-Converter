@@ -1,1 +1,9 @@
-# Roman-Numeral-Converter
+# Roman Numeral Converter
+
+This js file owner information.
+
+SIN,Chun Hung SIMON.
+
+HKUST graduate.
+
+Mathematician. Developer.
